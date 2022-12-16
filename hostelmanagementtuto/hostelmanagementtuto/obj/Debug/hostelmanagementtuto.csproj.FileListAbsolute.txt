@@ -1,0 +1,5 @@
+J:\Github\hostelmanagementtutorial\HostelManagementTuto\hostelmanagementtuto\obj\Debug\hostelmanagementtuto.csproj.AssemblyReference.cache
+J:\Github\hostelmanagementtutorial\HostelManagementTuto\hostelmanagementtuto\obj\Debug\hostelmanagementtuto.CustomWizard1.resources
+J:\Github\hostelmanagementtutorial\HostelManagementTuto\hostelmanagementtuto\obj\Debug\hostelmanagementtuto.csproj.GenerateResource.cache
+J:\Github\hostelmanagementtutorial\HostelManagementTuto\hostelmanagementtuto\obj\Debug\hostelmanagementtuto.csproj.CoreCompileInputs.cache
+J:\Github\hostelmanagementtutorial\HostelManagementTuto\hostelmanagementtuto\obj\Debug\hostelmanagementtuto.Form1.resources
